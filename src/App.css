@@ -1,0 +1,50 @@
+ .container{
+  font-size: 20px;
+  border : 2px solid rgb(216, 199, 179);
+  margin : 30px 10px 5px 2px;
+  padding : 20 px;
+}
+.container1{
+  font-size: 20px;
+  border : 2px solid rgb(219, 216, 223);
+  margin : 30px 10px 5px 2px; 
+  padding : 20px;
+}
+.container2{
+  font-size: 20px;
+  border : 2px solid rgb(128, 181, 206);
+  margin : 30px 10px 5px 2px;
+  padding : 30px;
+}
+#btn{
+  background-color: rgb(146, 219, 250);
+  color :rgb(1, 7, 12);
+  margin: 20px 20px;
+  border: none;
+  padding: 5px 20px;
+  border-radius: 5px;
+font-size: 16px;
+font-weight: 600;
+}
+#btn:hover{
+  background-color: rgb(178, 133, 217);
+}
+
+
+
+/* .mango, .mango2, .mango3 {
+  padding: 10px;
+  background-color: rgb(209, 238, 238);
+  text-align: center;
+  margin: 20px auto;
+  width: 80%;
+  border-radius: 10px;
+  
+}
+
+h1, h2{
+  font-family: sans-serif;
+}
+p{
+  font-size: 17px;
+} */
